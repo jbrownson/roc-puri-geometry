@@ -36,3 +36,7 @@ make test
 make docs
 make dist
 ```
+
+## License
+
+This package is available under the [UPL-1.0](LICENSE).
