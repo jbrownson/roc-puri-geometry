@@ -25,8 +25,8 @@ https://github.com/jbrownson/roc-puri-geometry/releases/download/0.1.0/8YcrEeY7J
 
 ## Files
 
-- [`main.roc`](main.roc) is the package manifest.
-- [`Geometry2d.roc`](Geometry2d.roc) contains the public API and inline tests.
+- [`main.roc`](package/main.roc) is the package manifest.
+- [`Geometry2d.roc`](package/Geometry2d.roc) contains the public API and inline tests.
 
 ## Commands
 
